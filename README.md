@@ -1,5 +1,6 @@
 # Gabriel Azara
-Graduated at Computer Science at PUC-GO, and currently studying Analysis and systems development at Descomplica
+Graduated at Computer Science at PUC-GO, and currently studying Analysis and systems development at Descomplica.
+
 Formado em Ciência da Computação na PUC-GO, e atualmente estudando ADS na Descomplica - Faculdade Digital.
 
 
