@@ -24,7 +24,7 @@
 
 
 ### Portfolio and Projects/Meu Portfolio com Projetos
-{EN}Portfolio where I show my personal projects, using change theme and change language.
+[EN]Portfolio where I show my personal projects, using change theme and change language.
 
 [PT]Portfolio pessoal criado com React.js, utilizando troca de temas e troca de lingua.
 
