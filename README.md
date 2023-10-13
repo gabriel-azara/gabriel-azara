@@ -1,7 +1,7 @@
 # Gabriel Azara
-Graduated at Computer Science at PUC-GO, and currently studying Analysis and systems development at Descomplica.
+[EN]Graduated at Computer Science at PUC-GO, and currently studying Analysis and systems development at Descomplica.
 
-Formado em Ciência da Computação na PUC-GO, e atualmente estudando ADS na Descomplica - Faculdade Digital.
+[PT-BR]Formado em Ciência da Computação na PUC-GO, e atualmente estudando ADS na Descomplica - Faculdade Digital.
 
 
 ### Connect with me/Conecte-se comigo
@@ -24,7 +24,8 @@ Formado em Ciência da Computação na PUC-GO, e atualmente estudando ADS na Des
 
 
 ### Portfolio and Projects/Meu Portfolio com Projetos
-Portfolio where I show my personal projects, using change theme and change language.
-Portfolio pessoal criado com React.js, utilizando troca de temas e troca de lingua.
+[EN]Portfolio where I show my personal projects, using change theme and change language.
+
+[PT]Portfolio pessoal criado com React.js, utilizando troca de temas e troca de lingua.
 
 [Portfolio](https://portfolio-react-bjnz.vercel.app/)
