@@ -28,3 +28,5 @@
 [PT]Portfolio pessoal criado com React.js, utilizando troca de temas e troca de lingua.
 
 [Portfolio](https://gabriel-azara.vercel.app/)
+
+![Profile views](https://komarev.com/ghpvc/?username=GABRIEL-AZARA&color=blue)
